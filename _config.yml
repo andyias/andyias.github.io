@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Sunday Isaac"
 description              : "Data Science Portfolio"
 url                      : "https://andyias.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/posts" #, e.g. "/blog"
 repository               : andyias/andyias.github.io #e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
